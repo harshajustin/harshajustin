@@ -57,6 +57,18 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshajustin&show_icons=true&theme=dark&border_radius=8)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshajustin&theme=dark&border_radius=8)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshajustin&layout=compact&theme=dark&border_radius=8)
+
+</div>
+
+---
+
 ## 📫 Connect with Me
 
 - 📧 Email: [harshajustin2@gmail.com](mailto:harshajustin2@gmail.com)  
@@ -66,4 +78,4 @@
 
 ---
 
-🔭 *Currently working on scaling AI agents with RAG pipelines and deploying them using cutting-edge cloud platforms.*  
+🔭 *Currently working on scaling AI agents with RAG pipelines and deploying them using cutting-edge cloud platforms.*

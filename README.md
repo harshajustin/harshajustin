@@ -2,7 +2,7 @@
 
 🎓 B.Tech student in **Artificial Intelligence & Machine Learning** at Anurag University  
 💼 AI/ML enthusiast with a passion for building impactful applications using **Generative AI**, **NLP**, and **Cloud Technologies**  
-🌐 Portfolio: [harshajustin.netlify.app](https://harshajustin.netlify.app)
+🌐 Portfolio: [harshajustin.me](https://harshajustin.me)
 
 ---
 

@@ -4,8 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%2FML+Engineering+Student;Building+Next-Gen+AI+Solutions;Passionate+about+Generative+AI+%26+NLP)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshajustin.com-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshajustin.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-vardhan-027413304/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harshajustin.me-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshajustin.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavardhanuparnandi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshajustin)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/22eg107a47/)
 
@@ -140,9 +140,6 @@
 | 🏅 Achievement | 📝 Description | 👥 Impact |
 |:-------------:|:-------------:|:---------:|
 | 🥇 **AI Days Hackathon Winner** | Built & deployed EduBot chatbot | 500+ students |
-| 🧑‍🏫 **Power BI Workshop Leader** | Conducted data visualization workshop | 50+ participants |
-| 🐍 **Python Bootcamp Instructor** | Taught Python fundamentals | 100+ students |
-| 📰 **Newsletter Editor-in-Chief** | Led Anurag University publication | University-wide reach |
 | 🎯 **Open Source Contributor** | Active GitHub contributions | Developer community |
 
 </div>
@@ -207,7 +204,7 @@ Other         25 mins        ▒░░░░░░░░░░░░░░░░
 </td>
 <td align="center" width="25%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-vardhan-027413304/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavardhanuparnandi/)
 **Professional**
 
 </td>
@@ -219,7 +216,7 @@ Other         25 mins        ▒░░░░░░░░░░░░░░░░
 </td>
 <td align="center" width="25%">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshajustin.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshajustin.me)
 **Showcase**
 
 </td>

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harsha Vardhan Parnandi
+# 👋 Hi, I'm Harsha Vardhanu Parnandi
 
 <div align="center">
 
